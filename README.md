@@ -1,0 +1,3 @@
+# ใช้ Docker volume อย่างไรให้ยกเว้น Sub folder
+สวัสดีครับ เมื่อเรา Map volume ของ Folder บน Local เข้ากับ Folder บน Container แล้ว สิ่งที่เกิดขึ้นคือ Folder บน Container จะถูกแทนที่ด้วย Folder บน Local บางครั้งเราอยากจะยกเว้น บาง Sub folder บน Container ไม่ต้องการให้ถูกเขียนทับด้วย Sub folder ของ Local เพื่อให้เข้าใจมากขึ้น มาดูกรณีศึกษานี้กันครับ...
+อ่านต่อที่นี่ https://www.thitiblog.com/blog/7865
